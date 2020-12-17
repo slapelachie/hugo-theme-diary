@@ -20,6 +20,8 @@
   translation: Hugo Theme
 - id: ported_from
   translation: Ported from
+- id: forked_from
+  translation: Forked from
 - id: by
   translation: by
 - id: draft
